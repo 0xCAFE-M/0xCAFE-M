@@ -1,1 +1,1 @@
-### 만들고 싶은 걸 만듭니다.
+I build things people actually use.
